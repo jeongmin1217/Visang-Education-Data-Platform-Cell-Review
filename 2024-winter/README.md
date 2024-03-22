@@ -19,7 +19,12 @@
 <div align="center">
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/259658ed-1231-459d-bec5-cad4c18b1f20">
 </div>
+
 - The internal data portal was developed within an AWS VPC network
+<div align="center">
+    <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/c6cf2c5c-a249-4bf5-9223-5c2bb4a5effa">
+</div>
+
 - Used a variety of databases (PostgreSQL, MySQL, Oracle) while connecting internal brand databases and performing some jobs in the data warehouse
 <div align="center">
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/c8367040-bb4c-4e0f-9797-f3718d58a8b2">
