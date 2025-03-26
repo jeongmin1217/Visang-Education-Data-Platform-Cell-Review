@@ -51,7 +51,7 @@ During the early stage of Digital Transformation (DX), we designed and developed
 - Planned the data portal service based on business requirements analysis
 - **Identified the possibility of AI model sharing** through brand meetings, and based on that, planned and developed an **internal AI status map feature** using `Tableau`
 - The AI status map helps reduce redundant development of AI models across the organization and fosters an environment that encourages collaboration
-- 
+
 ---
 
 ## 🎯 주요 성과
