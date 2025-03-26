@@ -76,12 +76,22 @@ During the early stage of Digital Transformation (DX), we designed and developed
 ## 📷 시각 자료 (Materials)
 
 ### 사내 데이터 포털 프로토타입 (Data Portal Prototype) <br><br>
-    <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/28fa3262-b824-45ad-be2e-5d6fc149ab0b"></img>
+<div align="center">
+      <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/28fa3262-b824-45ad-be2e-5d6fc149ab0b"></img>
+</div>
+<div align="center">
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/4c64c5ef-7cb3-48ff-8ce6-03ae3ae85d11"></img>
+</div>
+<div align="center">
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/decd95ae-3cca-4d1e-9177-0d590fd5cb6a"></img>
+</div>
+<div align="center">
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/bbd0b340-a40b-4182-b9a0-5bec32e74e2e"></img>  
+</div>
+<div align="center">
      <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/a9ee38fa-2ff3-4e03-b9b1-6949f6ad23da"></img>
-
+</div>
+     
 ## 🗣️ 피드백 (Feedback)
 
 ### 사수님 피드백 (Mentor's Feedback)
