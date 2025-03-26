@@ -1,25 +1,80 @@
-# Visang Education Data Platform Cell Internship (Jul 2023 - Aug 2023)
+# 비상교육(Visang Education) – 데이터플랫폼셀 인턴십(Data Platform Cell Internship) (2023.07 - 2023.08)
 
-## Key Achievements
+## 주요 프로젝트 (Main Project): 사내 데이터 포털 서비스 설계 및 개발 (Internal Data Portal Service – Design & Development)
 
-- Development of an in-house data portal service prototype
-- Contributed to the establishment of data governance
+## 📌 프로젝트 개요 (Project Overview)
 
-## Role & Skill Set
+DX 초기 과정에서 21개 사내 브랜드의 데이터를 통합 관리하고, 데이터 기반 인사이트를 창출하며, 조직 전반의 데이터 활용도를 높이기 위해 **데이터 카탈로그 시스템**을 설계 및 개발하였습니다.
 
-#### Role : DBA, Front-End Developer, and Product Manager
+During the early stage of Digital Transformation (DX), we designed and developed a **data catalog system** to centrally manage data across 21 internal brands, generate data-driven insights, and enhance overall data utilization within the organization.
 
-#### Skill Set
+---
 
-<b>PostgreSQL, React, Tailwind CSS, Git<br> Excel, Figma, VScode, DataGrip, Jira, Confluence, MS Teams</b>
-<br>
+## 💡 주요 기여 및 성과
 
-## Main Tasks
+### ✅ 프론트엔드 개발
+- `React`와 `Tailwind CSS`를 활용하여 **사용자 친화적인 UI 설계 및 구현**  
 
-- DBA tasks
-  - Designing in-house data portal ERD
-  - Classifying corporate-wide data subject areas through the metadata of internal brands
-  - Standardizing table definition documents
+### ✅ 데이터 모델링
+- **PostgreSQL 기반**으로 성능과 확장성을 고려한 데이터 구조 설계  
+
+### ✅ LLM 기반 자동화 프로세스 도입
+- 포털 서비스 내 데이터 이해도를 높이고자 데이터의 주제 영역을 분류해서 제공하는 기능을 기획
+- 분류 초기 4,000여개 테이블의 리스트, 정의서, 브랜드별 ERD를 직접 보면서 데이터 주제 영역 수작업 분류 
+- 확장성에 따라 수작업에 한계가 있기에 분류 자동화 프로세스 기획, 수작업 분류 당시 수립한 기준을 토대로 ChatGPT API를 활용해 **65% 정확도의 주제영역 분류 자동화 프로세스** 개발 (해당 작업은 두번째 인턴십 당시 완료)
+- 데이터 파이프라인에 적용하여 **데이터 자동 분류 표준화 기반 마련**  
+
+### ✅ 서비스 기획
+- 비즈니스 요구사항 분석을 통한 데이터 포털 서비스 기획
+- 특히, 브랜드 간 협업을 통해 **AI 모델 공유 가능성**을 확인  
+- 이를 바탕으로 `Tableau` 기반의 **사내 AI 현황맵 기능**을 기획 및 개발  
+
+---
+
+## 💡Key Contributions & Achievements
+
+### ✅ Front-End Development
+- Developed a **user-friendly interface** using `React` and `Tailwind CSS`
+
+### ✅ Data Modeling
+- Designed an optimized and scalable **data schema** based on `PostgreSQL`
+
+### ✅ Implementation of LLM-Based Automation Process
+- Planned a feature to provide the subject areas of data to enhance data understanding within the portal service
+- Manually classified the subject areas of about 4,000 tables by reviewing table lists, table dictionaries, and brand ERDs
+- Due to scalability limitations of manual classification, designed an automation process based on the criteria established during the manual classification stage
+- **Developed a subject area classification automation process using the `ChatGPT API` with 65% accuracy** (completed during the second internship period)
+- Applied the process to the data pipeline to **lay the foundation for standardized automatic classification**
+
+
+### ✅ Service Planning
+- Planned the data portal service based on business requirements analysis
+- Especially, planned and implemented an **AI status map** within the portal using `Tableau`, based on cross-brand collaboration and internal AI usage analysis
+
+---
+
+## 🎯 주요 성과
+
+- 서로 다른 브랜드의 데이터를 **한눈에 관리할 수 있는 시스템 구축**  
+- AI 기반 자동화 도입으로 **수작업 대비 시간 단축 및 데이터 활용도 향상**
+---
+
+## 🎯 Key Outcomes
+
+- Built a system that allows centralized management of data across multiple brands
+- Reduced manual work and improved data utilization through **AI-based automation**
+
+---
+
+## 🛠 사용 기술 및 도구 (Skills & Tools)
+
+- **기술 (Skills):**  
+  `React`, `Tailwind CSS`, `PostgreSQL`, `Git`
+
+- **도구 (Tools):**
+  `Figma`, `Jira`, `Confluence`, `MS Teams`, `Excel`
+
+  
   - Writing a large number of DDL and DML queries based on table lists and table definition documents<br><br>
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/7d206af4-3e4c-46ef-9dae-61d2e69d91d7">
 - Front-End Developer & Product Manager tasks
