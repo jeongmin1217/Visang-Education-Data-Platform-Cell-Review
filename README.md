@@ -1,43 +1,3 @@
-# Visang Education – Data Platform Cell Internship
-
-**Period:** Jul 2023 – Aug 2023, Jan 2024 – Feb 2024  
-
----
-
-## 🧩 Team Goal & Background
-
-Visang Education operates around 21 internal brands.  
-However, due to the lack of consistent **data governance**, each brand had been managed like separate entities, with no unified standards from a data perspective.
-
-To address this, our team — **Data Platform Cell** — took on the mission of:
-- Unifying internal brand data
-- Building a centralized data platform
-- Supporting the company’s **Digital Transformation** into a data-driven organization
-
----
-
-## 💼 My Role & Responsibilities
-
-### 🛠 Skill Set  
-`PostgreSQL`, `MySQL`, `Oracle`, `Airflow`, `React`, `Tailwind CSS`,  
-`AWS (EC2, RDS, VPC)`, `Docker`, `Git`,  
-`Excel`, `Figma`, `VSCode`, `DataGrip`, `CloudBeaver`,  
-`Jira`, `Confluence`, `MS Teams`
-
-### 📌 Tasks by Period
-
-#### 🔹 2023 Summer Internship
-- Took on **Front-End** and **Project Management** responsibilities
-
-#### 🔹 2024 Winter Internship
-- Worked as a **Data Engineer**, focusing on building and optimizing data pipelines
-
-> 📁 You can check each folder for detailed tasks and deliverables per period.
----
-
-Feel free to explore the repository to see more about my review during the internship!
-
----
 # 비상교육 – 데이터플랫폼셀 인턴십  
 **기간:** 2023년 7월 ~ 8월, 2024년 1월 ~ 2월  
 
@@ -76,3 +36,44 @@ Feel free to explore the repository to see more about my review during the inter
 ---
 
 프로젝트 내 기여한 내용을 더 자세히 보고 싶으시다면, 리포지토리 내부를 살펴보세요!
+
+---
+
+# Visang Education – Data Platform Cell Internship
+
+**Period:** Jul 2023 – Aug 2023, Jan 2024 – Feb 2024  
+
+---
+
+## 🧩 Team Goal & Background
+
+Visang Education operates around 21 internal brands.  
+However, due to the lack of consistent **data governance**, each brand had been managed like separate entities, with no unified standards from a data perspective.
+
+To address this, our team — **Data Platform Cell** — took on the mission of:
+- Unifying internal brand data
+- Building a centralized data platform
+- Supporting the company’s **Digital Transformation** into a data-driven organization
+
+---
+
+## 💼 My Role & Responsibilities
+
+### 🛠 Skill Set  
+`PostgreSQL`, `MySQL`, `Oracle`, `Airflow`, `React`, `Tailwind CSS`,  
+`AWS (EC2, RDS, VPC)`, `Docker`, `Git`,  
+`Excel`, `Figma`, `VSCode`, `DataGrip`, `CloudBeaver`,  
+`Jira`, `Confluence`, `MS Teams`
+
+### 📌 Tasks by Period
+
+#### 🔹 2023 Summer Internship
+- Took on **Front-End** and **Project Management** responsibilities
+
+#### 🔹 2024 Winter Internship
+- Worked as a **Data Engineer**, focusing on building and optimizing data pipelines
+
+> 📁 You can check each folder for detailed tasks and deliverables per period.
+---
+
+Feel free to explore the repository to see more about my review during the internship!
