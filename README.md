@@ -60,7 +60,7 @@ To address this, our team — **Data Platform Cell** — took on the mission of:
 ## 💼 My Role & Responsibilities
 
 ### 🛠 Skill Set  
-`PostgreSQL`, `MySQL`, `Oracle`, `Airflow`, `React`, `Tailwind CSS`,  
+`PostgreSQL`, `MySQL`, `Airflow`, `React`, `Tailwind CSS`,  
 `AWS (EC2, RDS, VPC)`, `Docker`, `Git`,  
 `Excel`, `Figma`, `VSCode`, `DataGrip`, `CloudBeaver`,  
 `Jira`, `Confluence`, `MS Teams`
