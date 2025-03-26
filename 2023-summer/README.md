@@ -73,23 +73,18 @@ During the early stage of Digital Transformation (DX), we designed and developed
 
 - **도구 (Tools):**
   `Figma`, `Jira`, `Confluence`, `MS Teams`, `Excel`
+## 📷 시각 자료 (Materials)
 
-  
-  - Writing a large number of DDL and DML queries based on table lists and table definition documents<br><br>
-    <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/7d206af4-3e4c-46ef-9dae-61d2e69d91d7">
-- Front-End Developer & Product Manager tasks
-  - Planning for the in-house data portal service
-  - Working on API integration and design work on the client-side using React and Tailwind CSS
-  - Data Portal Prototype <br><br>
+### 사내 데이터 포털 프로토타입 (Data Portal Prototype) <br><br>
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/28fa3262-b824-45ad-be2e-5d6fc149ab0b"></img>
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/4c64c5ef-7cb3-48ff-8ce6-03ae3ae85d11"></img>
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/decd95ae-3cca-4d1e-9177-0d590fd5cb6a"></img>
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/bbd0b340-a40b-4182-b9a0-5bec32e74e2e"></img>  
      <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/a9ee38fa-2ff3-4e03-b9b1-6949f6ad23da"></img>
 
-## Etc
+## 🗣️ 피드백 (Feedback)
 
-### Feedback from supervisor
+### 사수님 피드백 (Mentor's Feedback)
 
 <div align="center">
     <img src = "https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/19f62834-fd35-4e67-8128-19f699956793">
