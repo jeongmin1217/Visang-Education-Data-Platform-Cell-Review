@@ -26,8 +26,8 @@ During the early stage of Digital Transformation (DX), we designed and developed
 
 ### ✅ 서비스 기획
 - 비즈니스 요구사항 분석을 통한 데이터 포털 서비스 기획
-- 특히, 브랜드 간 협업을 통해 **AI 모델 공유 가능성**을 확인  
-- 이를 바탕으로 `Tableau` 기반의 **사내 AI 현황맵 기능**을 기획 및 개발  
+- 브랜드 미팅 과정에서 통해 **AI 모델 공유 가능성**을 확인, 이를 바탕으로 `Tableau` 기반의 **사내 AI 현황맵 기능**을 기획 및 개발
+- AI 현황맵을 통해 사내 AI 모델의 중복 개발을 줄이고, 협업 가능성을 높이는 환경을 구축
 
 ---
 
@@ -49,8 +49,9 @@ During the early stage of Digital Transformation (DX), we designed and developed
 
 ### ✅ Service Planning
 - Planned the data portal service based on business requirements analysis
-- Especially, planned and implemented an **AI status map** within the portal using `Tableau`, based on cross-brand collaboration and internal AI usage analysis
-
+- **Identified the possibility of AI model sharing** through brand meetings, and based on that, planned and developed an **internal AI status map feature** using `Tableau`
+- The AI status map helps reduce redundant development of AI models across the organization and fosters an environment that encourages collaboration
+- 
 ---
 
 ## 🎯 주요 성과
