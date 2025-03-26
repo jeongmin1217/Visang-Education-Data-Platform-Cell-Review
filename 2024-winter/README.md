@@ -58,7 +58,7 @@ To address this, the **Data Platform Cell** built a unified data platform with t
 ### 💻 Skill Set
 
 - **기술(Skills):**  
-  `PostgreSQL`, `MySQL`, `Oracle`, `Airflow`, `AWS (EC2, RDS, VPC, S3)`, `Docker`, `Git`
+  `PostgreSQL`, `MySQL`, `Airflow`, `AWS (EC2, RDS, VPC, S3)`, `Docker`, `Git`
 
 - **도구(Tools):**  
   `Cloud Beaver`, `VSCode`, `DataGrip`, `Jira`, `Confluence`, `MS Teams`
