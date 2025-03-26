@@ -79,7 +79,6 @@ To address this, the **Data Platform Cell** built a unified data platform with t
 <div align="center">
     <img src="https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review/assets/79658037/c6cf2c5c-a249-4bf5-9223-5c2bb4a5effa">
 </div>
----
 
 ## 🗣️ 피드백 (Feedback)
 
