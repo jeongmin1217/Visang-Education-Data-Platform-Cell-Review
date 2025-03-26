@@ -18,7 +18,7 @@
 ## 💼 나의 역할 및 기여
 
 ### 🛠 사용 기술  
-`PostgreSQL`, `MySQL`, `Oracle`, `Airflow`, `React`, `Tailwind CSS`,  
+`PostgreSQL`, `MySQL`, `Airflow`, `React`, `Tailwind CSS`,  
 `AWS (EC2, RDS, VPC)`, `Docker`, `Git`,  
 `Excel`, `Figma`, `VSCode`, `DataGrip`, `CloudBeaver`,  
 `Jira`, `Confluence`, `MS Teams`
