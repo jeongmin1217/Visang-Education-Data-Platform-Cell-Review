@@ -1,4 +1,5 @@
-# 비상교육(Visang Education) – 데이터플랫폼셀 인턴십(Data Platform Cell Internship) (2024.01 - 2024.02)
+# 비상교육(Visang Education)
+# – 데이터플랫폼셀 인턴십(Data Platform Cell Internship) (2024.01 - 2024.02)
 
 ## 📌 프로젝트 개요 (Project Overview)
 
