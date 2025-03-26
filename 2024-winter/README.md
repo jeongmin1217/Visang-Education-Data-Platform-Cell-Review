@@ -16,32 +16,40 @@ To address this, the **Data Platform Cell** built a unified data platform with t
 
 ### ✅ 데이터 파이프라인 구축 및 운영
 
-- **데이터 웨어하우스 구축 및 ELT 파이프라인 구축:**  
+- **데이터 웨어하우스 구축 및 ELT 파이프라인 구축**  
   - AWS VPC 환경 내에서 **Airflow 기반 파이프라인**을 Docker 컨테이너에 구성
   - **사내 브랜드 DB → 데이터 웨어하우스** 간 연계 수행
   - 데이터 플랫폼의 확장성을 고려해 단순 소스 DB가 아닌 **DBMS 종류별 파이프라인 구축 (MySQL, PostgreSQL 담당)**
 
-- **ETL 파이프라인 구축:**
+- **ETL 파이프라인 구축**
   - **데이터 웨어하우스 → 사내 데이터 포털 DB** 간 메타데이터 수집∙가공∙적재를 위한 파이프라인 개발
   - **성능 최적화:**  코드 리팩토링 및 쿼리 최적화를 통해 **52,714개 메타데이터 레코드 처리 시간 5% 단축**
     - 기존: 12분 9초 → 개선: 11분 32초
   - **정합성 확보:** 메타데이터 수집·가공·적재 과정 중 발생한 오류를 **테스트 케이스 기반으로 분석 및 해결**
   - **데이터 품질 모니터링:** 메타데이터 적재 과정에서 브랜드별 **데이터 품질 통계 관리 프로세스 설계 및 구현**
 
+### ✅ 기술 문서 작성 및 팀 내 지식 공유
+
+- 로컬 개발 환경 세팅 방법, 데이터 파이프라인 설계 가이드 등을 문서화하여, 팀원들이 개발 환경을 빠르게 구성하고 프로젝트 구조를 쉽게 이해할 수 있도록 지원
+
 ---
 ### ✅ Data Pipeline Development & Operation
 
-- **Data Warehouse Construction & ELT Pipeline Development:**  
+- **Data Warehouse Construction & ELT Pipeline Development**  
   - Built Airflow-based ELT pipelines within Docker containers in an AWS VPC environment  
   - Connected **internal brand databases to the data warehouse**  
   - Designed **DBMS-specific pipelines (MySQL, PostgreSQL)** for better scalability, rather than using simple source-level pipelines
 
-- **ETL Pipeline Development:**  
+- **ETL Pipeline Development**  
   - Built ETL pipelines to extract, transform, and load metadata from the **data warehouse to the internal data portal DB**  
   - **Performance Optimization:** Refactored code and optimized queries, resulting in a **5% reduction in processing time for 52,714 metadata records**  
     - From 12m 9s → Improved to 11m 32s  
   - **Data Integrity Enhancement:** Identified and resolved data integrity issues occurring during metadata collection and transformation using **test case–based debugging**  
   - **Data Quality Monitoring:** Designed and implemented an **enterprise data quality monitoring process** as part of the metadata loading pipeline
+
+### ✅ Documentation & Knowledge Sharing
+
+- Created technical documents such as local development environment setup guides and data pipeline design references, enabling team members to quickly set up their environments and understand the project flow efficiently.
 
 ---
 
