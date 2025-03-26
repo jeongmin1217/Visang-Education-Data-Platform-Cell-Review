@@ -1,6 +1,5 @@
-# 비상교육(Visang Education)
-# – 데이터플랫폼셀 인턴십(Data Platform Cell Internship) (2024.01 - 2024.02)
-
+# 비상교육(Visang Education) – 데이터플랫폼셀 인턴십(Data Platform Cell Internship) (2024.01 - 2024.02)
+## 주요 프로젝트(Main Project) - 데이터플랫폼 구축 및 운영 (Build and Manage Data Platform)
 ## 📌 프로젝트 개요 (Project Overview)
 
 비상교육은 약 21개의 사내 브랜드를 운영하고 있으나, 브랜드별 데이터가 분산되어 통합 관리가 어려운 상황이었습니다.  
