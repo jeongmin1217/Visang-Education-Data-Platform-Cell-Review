@@ -21,7 +21,7 @@ During the early stage of Digital Transformation (DX), we designed and developed
 ### ✅ LLM 기반 자동화 프로세스 도입
 - 포털 서비스 내 데이터 이해도를 높이고자 데이터의 주제 영역을 분류해서 제공하는 기능을 기획
 - 분류 초기 4,000여개 테이블의 리스트, 정의서, 브랜드별 ERD를 직접 보면서 데이터 주제 영역 수작업 분류 
-- 확장성에 따라 수작업에 한계가 있기에 분류 자동화 프로세스 기획, 수작업 분류 당시 수립한 기준을 토대로 ChatGPT API를 활용해 **65% 정확도의 주제영역 분류 자동화 프로세스** 개발 (해당 작업은 두번째 인턴십 당시 완료)
+- 확장성에 따라 수작업에 한계가 있기에 분류 자동화 프로세스 기획, 수작업 분류 당시 수립한 기준을 토대로 ChatGPT API를 활용해 **73% 정확도의 주제영역 분류 자동화 프로세스** 개발 (해당 작업은 두번째 인턴십 당시 완료)
 - 데이터 파이프라인에 적용하여 **데이터 자동 분류 표준화 기반 마련**  
 
 ### ✅ 서비스 기획
@@ -43,7 +43,7 @@ During the early stage of Digital Transformation (DX), we designed and developed
 - Planned a feature to provide the subject areas of data to enhance data understanding within the portal service
 - Manually classified the subject areas of about 4,000 tables by reviewing table lists, table dictionaries, and brand ERDs
 - Due to scalability limitations of manual classification, designed an automation process based on the criteria established during the manual classification stage
-- **Developed a subject area classification automation process using the `ChatGPT API` with 65% accuracy** (completed during the second internship period)
+- **Developed a subject area classification automation process using the `ChatGPT API` with 73% accuracy** (completed during the second internship period)
 - Applied the process to the data pipeline to **lay the foundation for standardized automatic classification**
 
 
